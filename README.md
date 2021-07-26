@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+## A beautiful web cam app built with love ant react js :)
+
+## Screenshots
+
+![](ss/Screenshot%202021-07-26%20073624.png)
+
+
+![](ss/Screenshot%202021-07-26%20073652.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
